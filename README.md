@@ -1,3 +1,4 @@
+I'm still trying to figure all of this out one step at a time <3
 - 👋 Hi, I’m Belinda
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning how to code and plug in data
